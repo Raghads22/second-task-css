@@ -1,0 +1,15 @@
+.footer{
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+
+.teams{
+    float: left;
+    width: 33% ;
+}
+
+
+.clear{
+    clear: left;
+}
